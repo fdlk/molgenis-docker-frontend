@@ -8,19 +8,19 @@
   "author": "Fleur Kelpin",
   "license": "LGPL-3.0",
   "dependencies": {
-    "@molgenis-ui/app-manager": "^1.0.0",
-    "@molgenis-ui/core-ui": "^0.3.2",
-    "@molgenis-ui/data-explorer": "^1.1.10",
-    "@molgenis-ui/data-row-edit": "^5.0.1",
-    "@molgenis-ui/legacy-lib": "^1.1.2",
-    "@molgenis-ui/metadata-manager": "^0.1.8",
-    "@molgenis-ui/molgenis-theme": "^1.9.4",
-    "@molgenis-ui/navigator": "^0.2.1",
-    "@molgenis-ui/one-click-importer": "^0.1.4",
-    "@molgenis-ui/questionnaires": "^3.0.1",
-    "@molgenis-ui/scripts": "^3.0.1",
-    "@molgenis-ui/searchall": "^0.1.5",
-    "@molgenis-ui/security": "^0.4.2",
-    "@molgenis-ui/settings": "^4.0.2"
+    "@molgenis-ui/app-manager": "^1.0.1",
+    "@molgenis-ui/core-ui": "^0.3.3",
+    "@molgenis-ui/data-explorer": "^1.3.4",
+    "@molgenis-ui/data-row-edit": "^5.2.0",
+    "@molgenis-ui/legacy-lib": "^1.1.4",
+    "@molgenis-ui/metadata-manager": "^0.1.9",
+    "@molgenis-ui/molgenis-theme": "^1.12.4",
+    "@molgenis-ui/navigator": "^0.2.2",
+    "@molgenis-ui/one-click-importer": "^0.1.5",
+    "@molgenis-ui/questionnaires": "^3.3.0",
+    "@molgenis-ui/scripts": "^3.3.0",
+    "@molgenis-ui/searchall": "^0.1.7",
+    "@molgenis-ui/security": "^0.4.5",
+    "@molgenis-ui/settings": "^4.3.0"
   }
 }
